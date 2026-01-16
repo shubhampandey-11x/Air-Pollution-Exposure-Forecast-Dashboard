@@ -1,0 +1,1 @@
+latitude,longitude,pollutant_min,pollutant_max,hour,day,month,weekday,is_weekend,dist_from_center,city,state,station
